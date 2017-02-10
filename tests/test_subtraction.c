@@ -13,6 +13,8 @@ static void test_subtraction(const char *a, const char *b, const char *expected)
             "%s - %s = %s, expected %s", a, b, result, expected);
 }
 
+
+
 /* Tests if subtraction is working */
 START_TEST(subtraction_works)
 {
