@@ -23,3 +23,10 @@ compile_tests: $(OBJECTS)
 
 clean:
 	rm -f test *.o *.gc[nod][oav]
+
+
+
+
+
+
+
